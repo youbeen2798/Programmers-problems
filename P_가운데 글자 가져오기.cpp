@@ -17,7 +17,3 @@ string solution(string s) {
     cout << answer;
     return answer;
 }
-
-int main() {
-    solution("qwer");
-}
